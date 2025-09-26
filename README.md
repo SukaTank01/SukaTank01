@@ -36,6 +36,10 @@
 
 ###
 
+#### My Github Stats
+
+[![SukaTank01's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukaTank01)]
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SukaTank01/SukaTank01/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SukaTank01/SukaTank01/output/pacman-contribution-graph.svg">
@@ -53,3 +57,4 @@
 </div>
 
 ###
+
