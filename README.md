@@ -30,6 +30,8 @@
 
 ![https://tiktok.com/@sukatank01](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://youtube.com/@sukatank01](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![https://t.me/YanzNightmare](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+![spotify-github-profile](/img/natemoo-re.svg)
+
 ###
 
 <img src="https://raw.githubusercontent.com/SukaTank01/SukaTank01/output/snake.svg" alt="Snake animation" />
@@ -57,4 +59,5 @@
 </div>
 
 ###
+
 
